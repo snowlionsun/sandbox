@@ -1,4 +1,3 @@
 i am file 1
 modification 1
-dev mod
-dev b mod
+purged all mods via github web interface

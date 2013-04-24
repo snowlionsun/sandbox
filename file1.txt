@@ -2,5 +2,9 @@ i am file 1
 <<<<<<< HEAD
 =======
 modification 1
+<<<<<<< HEAD
 dev mod
 >>>>>>> dev
+=======
+dev b mod
+>>>>>>> devb
